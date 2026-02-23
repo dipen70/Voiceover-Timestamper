@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image Syncer
 
 Turn a voiceover audio file into a narrated slideshow video — automatically synced to speech.
@@ -95,3 +94,4 @@ Any format supported by ffmpeg: `.mp3`, `.mp4`, `.wav`, `.m4a`, `.ogg`, `.flac`,
 # Voiceover-Timestamper
 Gives you timestamp of voiceover
 >>>>>>> f66faec0599ebac0a70b49845225585fbae67401
+
